@@ -1,0 +1,254 @@
+body{
+  background-color: #000;
+}
+.instacontainer{
+    position:relative;
+    margin-top:2px;
+    left:0px;
+}
+.ab6{
+  height:29;
+  width:103;
+ position:relative;
+ margin-top:2em;
+ margin-left:1em;
+ margin-bottom:1em;
+  /* margin:2px 0px 0px 2px;  */
+}
+  
+  ul{
+    list-style-type:none;
+  }
+  .symbolimg{
+    height:24;
+    width:24;
+    padding-left:1px;
+    line-height:3.5;
+    margin-left:1em;
+  }
+  
+  .Symbolname{
+    color:white;
+margin-left:1em;
+  }
+  .namecontainer{
+    font-size:16;
+    color:white;
+    position:relative;
+   line-height:3.5;
+  }
+  .allimg2{
+    border-radius:50%;
+  }
+  .name{
+    padding-top:-2px;
+    padding-left:0px;
+  }
+  .threeline{
+    margin-top:21.5em;
+    color:white;
+  
+  }
+
+.more{
+  line-height:3;
+  margin-left:1em;
+}
+ 
+  .dollimg{
+    height:66px;
+    width:66px;
+    border-radius: 50%;
+   border-width:3px;
+   border-style:solid;
+    border-color:pink; 
+    margin-left:0.1em;
+    margin-top:2.5em;
+  }
+
+.dollimg1{
+    height:66px;
+    width:66px;
+    border-radius: 50%;
+  border-width:3px;
+   border-style:solid;
+   border-color:pink;
+   margin-left:15em;
+ margin-top:2.5em;
+}
+
+.oneuser{
+  color:white;
+ text-align:right;
+}
+
+.user{
+color:white;
+text-align: right;
+}
+.dollimg9{
+  height:62px;
+ width: 62px;
+ border-radius:50%;
+margin-left:-1em;
+margin-top:1em;
+ 
+}
+.pranudarade{
+  padding: 5em 0 ;
+  color:white;
+  margin-top:-3em;
+
+
+}
+.pranupansare{
+ margin-left:3.5em;
+ /* margin-bottom:2em; */
+ margin-top:-1em; 
+ color:grey;
+}
+.switch{
+  margin-left:20em;
+  margin-top:-3em;
+  font-size:14px;
+ cursor: pointer;
+ color:blue;
+}
+.middleprofile{
+  height:42px;
+  width:42px;
+  border-radius:50%;
+  border-width:2px;
+   border-style:solid;
+   border-color:pink;
+margin-left: 520px;
+margin-top:30px;
+}
+.navya{
+  position:relative;
+  color:white;
+
+}
+li{
+  list-style-type:none;
+}
+.suggested{
+  margin-top:-4em;
+  margin-left:-1em;
+  color:grey;
+}
+.seeall{
+margin-left:12.9em;
+color:white;
+font-size:14px;
+}
+.imgsugg1{
+  height:30px;
+  width:30px;
+  border-radius:50%;
+  margin-left:-1em;
+  margin-top:7px;
+}
+.follow1{
+  color:blue;
+  font-size:14px;
+  margin-left:20.2em;
+  margin-top:-2.5em;
+  text-decoration:none;
+}
+.followed1{
+color:grey;
+margin-bottom:1em;
+margin-left:2.8em;
+margin-top:-0.01em;
+font-size: 13px;
+}
+.sugg1{
+  color:white;
+  margin-top:1em;
+}
+.middleimg{
+  height:40px;
+  width:40px;
+  border-radius:50%;
+  margin-left:23em;
+margin-top:4em;
+border-width:3px;
+border-style:solid;
+border-color:pink;
+margin-bottom:1em;
+
+}
+.middlesmallimg{
+  font-size:14px;
+  color:white;
+  text-align: center;
+  margin-top:-3.5em;
+  margin-left:-3em;
+}
+.fiveh{
+  color:grey;
+  margin-left:1.3em;
+  margin-top:-3.4em;
+}
+.threedot{
+  text-align:right;
+  margin-top:-3.5em;
+  margin-left:-6em;
+}
+.middlebigimg{
+  text-align:center;
+  margin-left:5em;
+}
+.likebutton{
+  color:white;
+ margin-left:-1.2em;
+ margin-top:12px;
+}
+.buttons{
+  color:white;
+ margin-left:-3em;
+ margin-top:12px;
+}
+.savebutton{
+  color:white;
+  margin-left:8.4em;
+  margin-top:12px;
+}
+.sharebutton{
+  color:white;
+  margin-left:-4.5em;
+  margin-top:12px;
+}
+a:link{
+  text-decoration: none;
+}
+.likecountimg{
+  border-radius:50%;
+  margin-left:23em;
+ 
+}
+.likecountname{
+  color:white;
+  font-size:13px;
+  margin-top:1em;
+}
+.shopnow{
+  color:white;
+  font-size:15px;
+  padding-left: 21.5em;
+}
+.comments{
+  color:grey;
+  font-size:15px;
+  margin-left:20em;
+}
+.vl{
+  border-left: 0.01px solid rgb(38, 38, 38);
+height:100%;
+position: fixed;
+left: 18%;
+margin-left: -6em;
+top:0;
+transform: translate(0px);
+}
